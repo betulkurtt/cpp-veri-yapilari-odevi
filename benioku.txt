@@ -1,0 +1,6 @@
+Program calisma dizininde Veri.txt dosyasini bekler.
+
+Derleme: mingw32-make
+Calistirma: bin\Odev2.exe
+
+Kaynak dosyalarinin basindaki ogrenci bilgilerini teslimden once guncelleyiniz.
